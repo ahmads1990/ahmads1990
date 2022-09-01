@@ -1,8 +1,8 @@
 ### Hi there,I'm Ahmad Khaled 👋
 
 # 💫 About Me:
-👨‍💻 I am a junior software engineer, passionate to try new things.
-📚 Studying Computer Science at FCIS - ASU year 4.
+👨‍💻 I am a junior software engineer, passionate to try new things.br><br>
+📚 Studying Computer Science at FCIS - ASU year 4.br><br>
 🔭 I’m currently working on my Repo<br><br>
 🌱 I’m currently learning .net Core<br><br>
 💬 Ask me about Git, Github, C#<br><br>
