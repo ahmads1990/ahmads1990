@@ -1,10 +1,10 @@
 ### Hi there,I'm Ahmad Khaled 👋
 
 # 💫 About Me:
-👨‍💻 I am a junior software engineer, passionate to try new things.<br><br>
-📚 Studying Computer Science at FCIS - ASU year 4.<br><br>
-🔭 I’m currently working on my Repo<br><br>
-🌱 I’m currently learning .net Core<br><br>
+👨‍💻 I am a junior software engineer, passionate to try new technologies and build cool projects.<br><br>
+📚 Just graduated Computer Science at FCIS - ASU and looking for a job or to get into freelancing.<br><br>
+🔭 I’m currently working on my Music api and ecommerce app repos, in case you want you want to check them out <br><br>
+🌱 I’m currently learning Asp.net Core and React.js<br><br>
 💬 Ask me about Git, Github, C#<br><br>
 📌 Lives in Cairo, Egypt.
 
