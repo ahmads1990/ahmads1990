@@ -13,5 +13,5 @@
 ### 💻 Languages and Skills:
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,react,py,git,github,md,postman,figma" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,bootstrap,js,react,py,git,github,md,postman,figma" alt="Skills" />
   </a>
