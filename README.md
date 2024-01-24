@@ -15,3 +15,9 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,bootstrap,js,react,py,git,github,md,postman,figma" alt="Skills" />
   </a>
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=ahmads1990&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmads1990&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
+</details>
